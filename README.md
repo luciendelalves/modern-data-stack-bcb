@@ -45,7 +45,7 @@ modern-data-stack-bcb/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/modern-data-stack-bcb.git
+git clone https://github.com/luciendelalves/modern-data-stack-bcb.git
 cd modern-data-stack-bcb
 ```
 
@@ -131,9 +131,9 @@ Este projeto está sob a licença MIT.
 
 ## 📧 Contato
 
-- **Nome**: [Seu Nome]
-- **LinkedIn**: [Seu LinkedIn]
-- **Email**: [Seu Email]
+- **Nome**: [Luciendel Alves]
+- **LinkedIn**: [https://www.linkedin.com/in/luciendelalves/]
+- **Email**: [luciendelalves@gmail.com]
 
 ---
 
