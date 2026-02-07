@@ -121,20 +121,15 @@ Este projeto demonstra:
 - Boas práticas de engenharia de dados
 - Estruturação de projetos Python
 
-## 🤝 Contribuições
+## 👨‍💻 Autor
 
-Contribuições são bem-vindas! Sinta-se livre para abrir issues ou pull requests.
+**Luciendel Alves**
+- GitHub: [@luciendelalves](https://github.com/luciendelalves)
+- LinkedIn: [Luciendel Alves](https://www.linkedin.com/in/luciendelalves/)
 
-## 📝 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT.
 
-## 📧 Contato
 
-- **Nome**: [Luciendel Alves]
-- **LinkedIn**: [https://www.linkedin.com/in/luciendelalves/]
-- **Email**: [luciendelalves@gmail.com]
 
----
-
-⭐ Se este projeto foi útil, considere dar uma estrela no GitHub!
