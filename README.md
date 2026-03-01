@@ -1,4 +1,4 @@
-# Modern Data Stack — Banco Central do Brasil
+# Modern Data Stack - Banco Central do Brasil
 
 Pipeline de dados para extração, armazenamento e análise de indicadores
 econômicos brasileiros usando dados públicos do Banco Central.
@@ -16,10 +16,10 @@ consultas SQL diretas sobre os indicadores.
 
 ## Stack
 
-- Python — extração e carga
-- DuckDB — banco de dados analítico (OLAP)
-- pandas — manipulação dos dados
-- API pública do BCB — fonte de dados
+- Python -> extração e carga
+- DuckDB -> banco de dados analítico (OLAP)
+- pandas -> manipulação dos dados
+- API pública do BCB -> fonte de dados
 
 ---
 
@@ -109,6 +109,6 @@ LIMIT 10;
 ## Autor
 
 **Luciendel Alves**
-Analista de Risco & PLD — iGaming
+Analista de Risco & PLD - iGaming
 [LinkedIn](https://www.linkedin.com/in/luciendel-alves-008321107/) ·
 [GitHub](https://github.com/luciendelalves)
